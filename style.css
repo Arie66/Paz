@@ -1,0 +1,22 @@
+/* *{direction: rtl;
+text-align:right;} */
+
+
+nav{direction: rtl;
+text-align:right;
+/*border: 1px solid red;*/}
+
+
+
+.image_right{float: right;
+            direction: right;
+            text-align: right;border: 1px solid red;}
+
+.image_center{float: right;
+            direction: right;
+            text-align: right;border: 1px solid red;}
+
+
+.image_left{float: right;
+            direction: right;
+            text-align: right;border: 1px solid red;}
