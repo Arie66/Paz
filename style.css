@@ -3,8 +3,14 @@ text-align:right;} */
 
 
 nav{direction: rtl;
-text-align:right;
-/*border: 1px solid red;*/}
+    text-align:right;
+    background: lightgray;
+    text-align: center;
+    /*border: 1px solid red;*/}
+
+nav ul li{display: inline-block;
+text-decoration : none;
+border-right: 2px;}
 
 
 
